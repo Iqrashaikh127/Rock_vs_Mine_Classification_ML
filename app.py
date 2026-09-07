@@ -9,7 +9,7 @@ model = joblib.load("sonar_final_model.pkl")
 
 
 # Application title
-st.title("🎯 Sonar Rock vs Mine Classification")
+st.title("Sonar Rock vs Mine Classification")
 
 st.write(
     "Enter the 60 sonar signal measurements below "
