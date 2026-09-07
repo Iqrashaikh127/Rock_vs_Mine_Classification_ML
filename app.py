@@ -50,7 +50,7 @@ if st.button("Predict"):
     # Display result
     st.subheader("Prediction Result")
 
-    st.success(f"Prediction: {result}")
+    st.success(f"The Predicted Object is a {result}")
 
     # Display probabilities
     st.write(
