@@ -96,13 +96,8 @@ The application returns the predicted class:
 - **Rock**
 - **Mine**
 
-## Project Structure
+## 👩‍💻 Author
 
-```text
-Rock_vs_Mine_Classification_ML/
-│
-├── SVM_Rock_vs_Mine_Streamlit.ipynb
-├── app.py
-├── sonar_final_model.pkl
-├── requirements.txt
-└── README.md
+**Iqra Shaikh**
+
+Data Science | Data Analytics | AI/ML
