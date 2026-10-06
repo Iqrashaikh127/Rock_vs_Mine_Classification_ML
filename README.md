@@ -29,7 +29,6 @@ Each feature represents a sonar frequency measurement used for classification.
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- XGBoost
 - Streamlit
 - Joblib
 
